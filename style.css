@@ -1863,6 +1863,7 @@ position: relative; /* Dodajte relativni položaj kako bi oznaka akcije bila rel
     border-radius: 10px; /* Dodajemo zaobljene rubove */
     min-height: 350px;
     background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodajemo shadow efekt */
 }
 
 #product-list img {
@@ -1903,6 +1904,7 @@ position: relative; /* Dodajte relativni položaj kako bi oznaka akcije bila rel
         width: 100%; /* Postavljamo širinu slike na 100% širine boxa */
         height: 150px; /* Postavljamo fiksnu visinu za slike */
         object-fit: cover; /* Osiguravamo da slike popune dodijeljeni prostor */
+      
        
     }
 }
