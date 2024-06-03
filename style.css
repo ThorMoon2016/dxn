@@ -2020,7 +2020,7 @@ body {
 .search-results {
     position: absolute;
     top: 58px; /* Povećana vrednost za pomeranje prema dole */
-    left: 640px;
+    left: 365px;
     width: 16%;
     background-color: white;
     border-radius: 4px;
